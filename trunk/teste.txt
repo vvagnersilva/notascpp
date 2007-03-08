@@ -1,0 +1,3 @@
+Informacoes a serem armazenadas no arquivo
+Corpo do texto...
+Ultima linha do texto!
