@@ -38,3 +38,4 @@ namespace state
       return m_state->GetInfoState();
    }
 }
+
