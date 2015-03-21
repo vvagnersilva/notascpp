@@ -1,0 +1,1 @@
+O objetivo é ter exemplos diversos e didaticos para programadores C++.
